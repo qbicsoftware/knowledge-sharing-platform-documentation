@@ -19,6 +19,7 @@ The necessary master data for the knowledge-sharing platform can be found [here]
 
 Additionally, we are using several **core plugins** in openBIS, that allow the registration of omics data and the query of meta information to display on the platform. The complete version can be found in the following repositories:
 [Jython scripts](https://github.com/qbicsoftware/etl-scripts)
+
 [Java ETL scripts](https://github.com/qbicsoftware/java-openbis-dropboxes)
 
 A smaller subset including pre-packaged libraries can be found on [this repository](basic_openbis_etl_scripts).
@@ -32,6 +33,7 @@ We are using a MySQL database to store some additional administrative metadata l
 ### Portlets
 
 As described below, both the Project Browser portlet and the portlet to create experiments and add measurements are included in the Liferay Site package. The latest versions and their source code can be found in their own repositories:
+
 https://github.com/qbicsoftware/ipspine-input-portlet
 https://github.com/qbicsoftware/projectbrowser-portlet
 

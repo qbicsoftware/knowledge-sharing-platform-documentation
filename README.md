@@ -35,6 +35,7 @@ We are using a MySQL database to store some additional administrative metadata l
 As described below, both the Project Browser portlet and the portlet to create experiments and add measurements are included in the Liferay Site package. The latest versions and their source code can be found in their own repositories:
 
 https://github.com/qbicsoftware/ipspine-input-portlet
+
 https://github.com/qbicsoftware/projectbrowser-portlet
 
 ## Detailed configuration options for components
